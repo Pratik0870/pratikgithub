@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I have Worked on **Diwali Sales Analysis in Python**
+- 🔭 I have Worked on **The Pyhton Projects**
 
 - 🌱 I’m currently learning **BSC in Data Science**
-
-- 👯 I’m looking to collaborate on **Power BI IPL DATASET Project**
 
 - 📫 How to reach me **pratikrider605@gmail.com**
 
